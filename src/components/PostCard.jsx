@@ -33,4 +33,4 @@ function PostCard({ title, body, isFavorite, onToggleFavorite }) {
   );
 }
 
-export default PostCard;
+export default PostCard; 
