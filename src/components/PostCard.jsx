@@ -1,4 +1,4 @@
-function PostCard({ title, body }) {
+function PostCard({ title, body, isFavorite, onToggleFavorite }) {
   return (
     <div
       style={{

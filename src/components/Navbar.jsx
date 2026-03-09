@@ -1,4 +1,4 @@
-function Navbar() {
+function Navbar({ favoriteCount }) {
   return (
     <nav
       style={{
